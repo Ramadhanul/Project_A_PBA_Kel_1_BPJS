@@ -2,7 +2,7 @@
 # Proyek Analisis Sentimen dan Named Entity Recognition (NER) BPJS Kesehatan
 
 ## Deskripsi
-Proyek ini bertujuan untuk menganalisis persepsi publik terhadap layanan BPJS Kesehatan melalui analisis sentimen dan pengenalan entitas bernama (NER) menggunakan teknik pemrosesan bahasa alami (NLP). Data berita dikumpulkan dari berbagai portal berita terpercaya menggunakan metode web scraping, yang menghasilkan lebih dari 5.000 artikel yang telah diproses.
+Proyek ini bertujuan untuk menganalisis persepsi publik terhadap layanan BPJS Kesehatan melalui analisis sentimen dan pengenalan entitas bernama (NER) menggunakan teknik pemrosesan bahasa alami (NLP). Data berita dikumpulkan dari berbagai portal berita terpercaya menggunakan metode web scraping, yang menghasilkan lebih dari 5.036 artikel yang telah diproses.
 
 ## Fitur Utama
 - **Analisis Sentimen**: Mengidentifikasi sentimen positif, negatif, dan netral dalam berita terkait BPJS Kesehatan.
@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk menganalisis persepsi publik terhadap layanan BPJS Ke
 - **Visualisasi**: Menampilkan hasil analisis sentimen, tren berita, dan word cloud untuk kata-kata yang paling sering muncul.
 
 ## Hasil Kuantitatif
-- Jumlah artikel yang dianalisis: **5.000+**
+- Jumlah artikel yang dianalisis: **5.036**
 - Sentimen:
   - Artikel netral: **3.342**
   - Artikel negatif: **1.013**
